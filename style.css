@@ -121,7 +121,7 @@ body{
     #header{
         flex-direction: row;
         flex-wrap:wrap;
-        height:20vw;
+        height:22vw;
     }
     .headercont{
         width: 50vw;
