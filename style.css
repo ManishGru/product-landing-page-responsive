@@ -94,6 +94,10 @@ body{
     flex-direction: row;
     flex-wrap:wrap;
 }
+.pricecont a{
+    text-decoration: none;
+    color:white;
+}
 .priceitem{
     width:15vw;
     margin:1vw;
@@ -116,6 +120,22 @@ body{
     text-align: center;
     margin-bottom:1vw;
     font-size:1vw;
+}
+#connect{
+    font-size:2vw;
+    margin:auto;
+    text-align:center;
+}
+#form{
+    margin:auto;
+}
+#email{
+    display:block;
+    margin:auto;
+}
+#submit{
+    display:block;
+    margin:auto;
 }
 @media screen and (max-width:700px){
     #header{
